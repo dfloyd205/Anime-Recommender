@@ -2,7 +2,7 @@
 
 Anime recommender project
 
-NOTE: THIS PROJECT REQUIRES SEVERAL PYTHON LIBRARY DEPENDENCIES
+NOTE: THIS PROJECT CONTAINS SEVERAL PYTHON LIBRARY DEPENDENCIES
  
  -----------------------------------------------------
  
